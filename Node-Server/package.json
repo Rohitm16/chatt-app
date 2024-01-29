@@ -1,0 +1,17 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newindex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatting"
+  ],
+  "author": "Rohit",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.4"
+  }
+}
